@@ -6,10 +6,6 @@ This is a simple coding challenge to test abilities. To join the software progra
 
 Jorge Sierra
 
-(253)-670-9994
-
-jorg.sierrar@gmail.com
-
 https://www.linkedin.com/in/jorgsierra/
 
 # Station Uptime 
