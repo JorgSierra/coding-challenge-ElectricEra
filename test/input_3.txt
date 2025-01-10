@@ -1,0 +1,13 @@
+[Stations]
+777 1 2 5
+
+[Charger Availability Reports]
+1 1000 3000 true
+2 2000 4000 true
+5 1000 4000 false
+1 5000 7000 false
+5 8500 9500 true
+2 4500 6000 true
+1 9000 12000 false
+2 7000 10000 false
+5 6000 8000 true
